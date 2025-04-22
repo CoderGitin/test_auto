@@ -31,7 +31,7 @@ export default function ContactForm() {
           </div>
           <div className="text-yellow-400 text-3xl mb-2 mt-12">★ ★ ★ ★ ★</div>
           <blockquote className="text-black italic mb-2 text-xl">
-      "We highly recommend it to any business looking to <br/>  improve their efficiency and profitabilitty."
+      &quot;We highly recommend it to any business looking to <br/>  improve their efficiency and profitabilitty.&quot;
           </blockquote>
           <p className="text-[16px] text-black">Rated 5/5 – from over 40 reviews</p>
         </div>
